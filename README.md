@@ -1,2 +1,2 @@
-# GameLib
-Collection of games I made using python
+# Games
+11th Project
